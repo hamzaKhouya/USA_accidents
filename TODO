@@ -1,11 +1,8 @@
 TODO list:
 - Python part:
     - Convert data to exact type . Done
-    - fill missing data using median, average or frquency. In progress
-            - City:
-                - If: Lat and Long are missing, replace with Frequent value,
-                - else: Create a fonction to measure distance between two points and replace it with City near.
-    - split data into differents sets(csv, excel, mysql, postgresql ...) based on the year.
+    - fill missing data using median, average or frquency. Done
+    - split data into differents sets(csv, excel, mysql, postgresql ...) based on the year. In progress
     - Optional: Create a dashboard using Dash and plotly (spyder app).
 - Talend:
     - Create Datawareouse
